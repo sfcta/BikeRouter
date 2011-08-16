@@ -1,0 +1,1 @@
+python run_assignment.py -m bike_assign_master_cfg -c
